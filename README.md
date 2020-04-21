@@ -11,4 +11,4 @@
 
 ## EX3
 
-![动图](https://github.com/tsparrot/Homework/tree/master/pic/3-3.gif)
+![动图](https://github.com/tsparrot/Homework/blob/master/pic/3-3.gif)
